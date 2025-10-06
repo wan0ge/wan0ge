@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-你好！我是和歌子！你也可以叫我鸽子、歌鸽子、挽歌☝🤓（ID已经多的不行了XD），很高兴认识你！🥳
+你好！我是和歌子！你也可以叫我鸽子、歌鸽子、挽歌☝🤓（ID已经多的不行了XD），是一位普通上网冲浪选手XD，很高兴认识你！🥳
 
-我的个人导航页：[和歌子个人导航页](https://al.u311533.nyat.app:32848/)
+我的个人导航页：[「和歌子个人导航页」](https://al.u311533.nyat.app:32848/) 里面有关于我的一切！（？
 <!--
 **wan0ge/wan0ge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
