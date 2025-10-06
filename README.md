@@ -3,6 +3,12 @@
 你好！我是和歌子！你也可以叫我鸽子、歌鸽子、挽歌☝🤓（ID已经多的不行了XD），是一位普通上网冲浪选手XD，很高兴认识你！🥳
 
 我的个人导航页：[「和歌子个人导航页」](https://al.u311533.nyat.app:32848/) 里面有关于我的一切！（？
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wan0ge/wan0ge/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wan0ge/wan0ge/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wan0ge/wan0ge/output/github-contribution-grid-snake.svg">
+</picture>
 <!--
 **wan0ge/wan0ge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
